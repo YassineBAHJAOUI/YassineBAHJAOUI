@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yassine BAHJAOUI</h1>
-<h3 align="center">[![ybahjaou's 42 stats](https://badge.mediaplus.ma/binary/ybahjaou?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)</h3>
+<h3 align="center">![ybahjaou's 42 stats](https://badge.mediaplus.ma/binary/ybahjaou?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)</h3>
 
 - 🌱 I’m currently learning **🔢 DEUST Math Informatique Physique à la Faculté des Sciences et Techniques de Mohammedia.
    🎓 Licence 3 à l'Université de Perpignan. 💻 Tronc commun 42Perpignan.**
