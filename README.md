@@ -2,13 +2,13 @@
 
 - ## 🌱 Education and Academic Journey
 
-3. <strong>Common Core at 42Perpignan</strong>
+. <strong>Common Core at 42Perpignan</strong>
    - Computer science training at 42Perpignan.
 
-2. <strong>Bachelor's Degree (Licence 3)</strong>
+. <strong>Bachelor's Degree (Licence 3)</strong>
    - University of Perpignan.
 
-1. <strong>DEUST in Mathematics, Computer Science, and Physics</strong>
+. <strong>DEUST in Mathematics, Computer Science, and Physics</strong>
    - Faculty of Sciences and Techniques, Mohammedia.
 
 - ## 👨‍💻 All of my projects are available at : [https://github.com/YassineBAHJAOUI](https://github.com/YassineBAHJAOUI)
