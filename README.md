@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yassine BAHJAOUI</h1>
 <h3 align="center">Étudiant à l'école 42 Perpignan passionné par le DevOps</h3>
 
-- 🌱 I’m currently learning **🔢 DEUST Math Informatique Physique à la Faculté des Sciences et Techniques de Mohammedia. 🎓 Licence 3 à l'Université de Perpignan. 💻 Tronc commun 42Perpignan.**
+- 🌱 I’m currently learning **🔢 DEUST Math Informatique Physique à la Faculté des Sciences et Techniques de Mohammedia.
+   🎓 Licence 3 à l'Université de Perpignan. 💻 Tronc commun 42Perpignan.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YassineBAHJAOUI](https://github.com/YassineBAHJAOUI)
 
