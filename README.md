@@ -8,7 +8,7 @@
 📚 . <strong>Bachelor's Degree (Licence 3)</strong>
    - University of Perpignan.
 
-💼 . <strong>DEUST in Mathematics, Computer Science, and Physics</strong>
+💼 . <strong>DEUST(BAC+2) in Mathematics, Computer Science, and Physics</strong>
    - Faculty of Sciences and Techniques, Mohammedia.
 
 - ## 💻 All of my projects are available at : [https://github.com/YassineBAHJAOUI](https://github.com/YassineBAHJAOUI)
